@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Everything i found exicted
 - 💞️ I’m looking to collaborate on Any Project 
-- 📫 How to reach me you can reach my on my [twitter]
+- 📫 How to reach me you can reach me on my [twitter]
 
 <!---
 AlimNu/AlimNu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
